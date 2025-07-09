@@ -14,6 +14,6 @@ Tasks completed:
 
 
 <div style="text-align: center;">
-  <img src="images/normal_distribution.png" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
-  <img src="images/ols_regression.png" style="display: inline-block; width: 350px; height: 250px;">
+  <img src="images/ml_1.jpg" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
+  <img src="images/ml_2.jpg" style="display: inline-block; width: 350px; height: 250px;">
 </div>
