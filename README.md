@@ -1,5 +1,7 @@
 ## Heart Disease Prediction Using Machine Learning
 
+Created by [Junaid Din](https://github.com/junaid-din)
+
 This project applies machine learning techniques to predict the presence of heart disease using a real-world dataset sourced from Kaggle. The goal is to support early diagnosis and intervention for at-risk individuals, potentially reducing premature deaths due to cardiovascular disease. Several standard classification models were implemented, alongside a novel hybrid ensemble model using majority voting. The study showed that ensemble models generally outperform individual classifiers in accuracy and recall. Emphasis was placed on data quality, pre-processing, feature engineering, and model evaluation using clinically relevant metrics.
 
 Tasks completed:
